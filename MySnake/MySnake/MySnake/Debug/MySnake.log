@@ -1,0 +1,16 @@
+﻿  procedure_snake.cpp
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(169,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(170,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(171,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(172,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(173,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(178,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(231,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(239,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(323,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(359,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(375,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(400,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(546,42): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\MySnake\procedure_snake.cpp(612,46): warning C4018: >: несоответствие типов со знаком и без знака
+  MySnake.vcxproj -> C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\MySnake\MySnake\Debug\MySnake.exe
