@@ -1,0 +1,31 @@
+﻿  Graphics.cpp
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\snake\snake\Graphics.cpp(71,162): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\snake\snake\Graphics.cpp(71,79): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\snake\snake\Graphics.cpp(93,162): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\snake\snake\Graphics.cpp(93,79): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  OOPsnake.cpp
+  Resources.cpp
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\snake\snake\Resources.cpp(5,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\snake\snake\Resources.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\snake\snake\Resources.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\snake\snake\Resources.cpp(32,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\snake\snake\Resources.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+  snake.cpp
+  Создание кода...
+  snake.vcxproj -> C:\Users\Виталя\Documents\ВУЗ домашки\Курсач по ООП\snake\Debug\snake.exe
